@@ -18,8 +18,8 @@
         . . # . .
         `</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="XweBVB9C8.*3b0(r*IUj"><field name="LEDS">`
         . . # . . 
-        . . # . . 
-        # . # . # 
-        . # # # . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
         . . # . .
         `</field></block></statement></block></next></block></statement></block></xml>

@@ -28,9 +28,9 @@ basic.forever(function () {
     } else {
         basic.showLeds(`
             . . # . .
-            . . # . .
-            # . # . #
-            . # # # .
+            . # . . .
+            # # # # #
+            . # . . .
             . . # . .
             `)
     }
